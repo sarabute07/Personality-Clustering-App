@@ -21,6 +21,8 @@ This app analyzes MBTI personality types using clustering on real-world text dat
 The goal of this project is to uncover hidden personality groupings by applying 
 unsupervised learning on text data. Users can explore clusters, view their dominant MBTI types, 
 and test which cluster their own writing fits into.
+  <img width="1331" height="826" alt="Screenshot 2025-11-01 at 12 10 37 AM" src="https://github.com/user-attachments/assets/35202fcd-8788-4561-a308-9fbfce13ab5f" />
+
 </p>
 
 <h3>Key Features</h3>
