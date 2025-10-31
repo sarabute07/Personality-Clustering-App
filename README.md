@@ -1,14 +1,16 @@
 # Personality-Clustering-App
-br
+<br>
 MBTI Personality Clustering & Analysis
-br
+<br>
 This project performs clustering on MBTI (Myers-Briggs Type Indicator) personality data using machine learning techniques.
 It identifies patterns in people’s writing styles and groups them into personality clusters.
 The project is implemented as an interactive Streamlit web app.
-Overview
+<br>
 This app analyzes MBTI personality types using clustering on real-world text data (MBTI dataset from Kaggle).
-br
+Overview
+<br>
 Key Features
+<br>
 Uses TF-IDF vectorization to analyze writing patterns.
 Groups similar personalities using K-Means clustering.
 Reduces dimensions via PCA for 2D visualization.
